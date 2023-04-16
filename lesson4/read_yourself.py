@@ -1,3 +1,4 @@
+#Програма виводить сама себе
 f = open('read_yourself.py', 'r')
 for line in f:
     print(line, end='')
